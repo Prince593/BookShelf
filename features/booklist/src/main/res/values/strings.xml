@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BookShelf</string>
+    <string name="published_in">Published in %1$s</string>
+    <string name="no_active_sessions_found_please_login_again">No active sessions found, Please login again!</string>
+    <string name="ok">OK</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="logout">Logout</string>
+    <string name="do_you_want_to_logout">Do you want to logout?</string>
+</resources>
